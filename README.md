@@ -12,12 +12,6 @@ Built With:
 HTML, CSS, JavaScript
 Chart.js for personality visualization
 
-How To Run:
------------
-Clone the repository
-Open index.html in your browser
-No installation or dependencies required
-
 Demo:
 -----------
 Answer questions → Get matched to a character → See your personality breakdown chart
