@@ -24,7 +24,9 @@ Answer questions → Get matched to a character → See your personality breakdo
 
 <img width="938" height="883" alt="image" src="https://github.com/user-attachments/assets/22862cd1-0277-4517-a8f4-5d13ebb54663" />
 
+
 Video Example:
+
 https://youtu.be/FxJpreJ7t3I
 
 
