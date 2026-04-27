@@ -14,6 +14,10 @@ Built With:
 HTML, CSS, JavaScript
 Chart.js for personality visualization
 
+How It Was Built:
+------------------
+This project was designed to connect personality traits with literary analysis. Each character from the three novels was mapped to a distinct set of personality traits, and a weighted scoring system was built to evaluate user responses and determine the closest match. One of the key challenges was handling tied scores between characters, which required building an automatic tiebreaker system to always produce a single, definitive result. The quiz interface and result page were built entirely from scratch using HTML, CSS, and JavaScript, with Chart.js integrated to visualize how closely a user matched each character across the full roster.
+
 Demo:
 -----------
 Answer questions → Get matched to a character → See your personality breakdown chart
